@@ -40,7 +40,7 @@ onUnmounted(() => clearInterval(interval));
       <div v-if="monitorProper" style="margin-top: 12px; background: #78350f; border: 2px solid #f59e0b; padding: 14px; border-radius: 8px;">
         <strong>A prop de: {{ monitorProper.titol }}</strong>
       </div>
-      <p style="margin-top: 16px; font-size: 12px; color: #94a3b8;">Controls: WASD o Fletxes per moure en George.</p>
+      <p style="margin-top: 16px; font-size: 12px; color: #94a3b8;">Controls: WASD o Fletxes per moure el drac (Shift: córrer).</p>
     </aside>
   </main>
 </template>
