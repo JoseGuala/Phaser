@@ -1,3 +1,6 @@
 [submodule "Unity-Duelyst-Animations"]
 	path = Unity-Duelyst-Animations
 	url = https://github.com/josfeldmann/Unity-Duelyst-Animations.git
+[submodule "Shadow2D-Unity"]
+	path = Shadow2D-Unity
+	url = https://github.com/amirishere101/Shadow2D-Unity.git
